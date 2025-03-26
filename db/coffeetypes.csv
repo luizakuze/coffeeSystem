@@ -1,0 +1,4 @@
+typeId,typeName,waterQty,coffeeQty,milkQty,price
+COF-001,Simple Coffee,1,1,0,5
+COF-002,Double Coffee,1,2,0,8
+COF-003,Coffee with Milk,1,1,1,7
